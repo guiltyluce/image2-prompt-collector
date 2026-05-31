@@ -60,7 +60,7 @@ python3 scripts/import_candidates.py \
 
 ## Skill 安装
 
-参赛上传包位置：
+Skill 分发包位置：
 
 ```text
 skill/image2-prompt-collector/image2-prompt-collector.zip
@@ -72,14 +72,6 @@ skill/image2-prompt-collector/image2-prompt-collector.zip
 mkdir -p ~/.codex/skills
 unzip -o skill/image2-prompt-collector/image2-prompt-collector.zip -d ~/.codex/skills/
 ```
-
-## 参赛信息
-
-- 作品名称：AI生图（image2）爆款提示词收集助手
-- 推荐赛道：Skill 技能赛道
-- 推荐行业：文创传媒
-- 推荐场景：内容创作
-- 一句话描述：收集爆款生图提示词和例图，沉淀可复用资产库。
 
 ## License
 
